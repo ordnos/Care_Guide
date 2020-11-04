@@ -33,10 +33,10 @@ $u = new Usuario();
                 <div class="col-md-5 ml-5 mr-5">
                     <form method="POST">
                         <h2 class="text-center title-cg mb-5">Entrar</h2>
-                        <input type="email" placeholder="Usuário" name="email">
+                        <input class="input-cg" type="email" placeholder="Usuário" name="email">
                         <input type="password" placeholder="Senha" name="senha">
-                        <input type="submit" value="ACESSAR">
-                        <a href="cadastrar.php">Ainda não é inscrito?<strong>Cadastre-se!</strong></a>
+                        <input type="submit" value="Entrar">
+                        <a href="register.php">Ainda não é inscrito?<strong> Cadastre-se!</strong></a>
                     </form>
                 </div>
             </div>

@@ -51,7 +51,7 @@ $u = new Usuario();
                                 <a class="float-right mt-2 text-cg" href="login.php"><small>Já possui uma conta ?</small></a>
                             </div>
                             <div>
-                                <input type="submit" class="btn btn-lg btn-primary mb-5 mt-4" value="Cadastrar">
+                                <input type="submit" value="Cadastrar">
                             </div>
                     </form>
                 </div>
@@ -77,57 +77,46 @@ $u = new Usuario();
     
     <?php
     //verificar se clicou no botao
-    if(isset($_POST['nome']))
-    {
+    if(isset($_POST['nome'])) {
         $nome = addslashes($_POST['nome']);
         $telefone = addslashes($_POST['telefone']);
         $email = addslashes($_POST['email']);
         $senha = addslashes($_POST['senha']);
         $confirmarSenha = addslashes($_POST['confSenha']);
         //verificar se esta preenchido
-        if(!empty($nome) && !empty($telefone) && !empty($email) && !empty($senha) && !empty($confirmarSenha))
-        {
+        if(!empty($nome) && !empty($telefone) && !empty($email) && !empty($senha) && !empty($confirmarSenha)) {
             $u->conectar("care_guide","localhost","root","");
             if($u->msgErro == "")//se esta tudo ok
             {
-                if($senha == $confirmarSenha)
-                {
-                    if($u->cadastrar($nome,$telefone,$email,$senha))
-                    {
+                if($senha == $confirmarSenha) {
+                    if($u->cadastrar($nome,$telefone,$email,$senha)) {
                         ?>
                         <div id="msg-sucesso">
                         Cadastrado com sucesso! Acesse para entrar!
                         </div>
                         <?php
-                    }
-                    else
-                    {
+                    } else {
                         ?>
                         <div class="msg-erro">
                             Email ja cadastrado!
                         </div>
                         <?php
                     }
-                }
-                else
-                {
+                } else {
                     ?>
                     <div class="msg-erro">
                         Senha e confirmar senha não correspondem
                     </div>
                     <?php
                 }
-            }
-            else
-            {
+            } else {
                 ?>
                 <div class="msg-erro">
                     <?php echo "Erro: ".$u->msgErro;?>
                 </div>
                 <?php
             }
-        }else
-        {
+        } else {
             ?>
             <div class="msg-erro">
                 Preencha todos os campos!

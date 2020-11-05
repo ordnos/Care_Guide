@@ -6,9 +6,8 @@ use care_guide;
 
 -- Criando a tabela users
 CREATE TABLE usuarios (
-  id_usuario int(11) AUTO_INCREMENT primary key,
+  id integer AUTO_INCREMENT primary key,
   nome varchar(30),
-  telefone varchar(30),
   email varchar(40),
   senha varchar(32)
 )

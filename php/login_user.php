@@ -3,10 +3,7 @@
     session_start();
 
     if (isset($_SESSION['id'])) {
-        echo "skdandlakndlka";
-    }
-    
-    //if(isset($_SESSION['id_usuario'])) {
+        include_once "./includes/header.php";
 ?>
 
 <!-- Inicio do Cabeçalho -->
@@ -59,16 +56,10 @@
 <!-- Inicio do Espaçador -->
 <div class="long-spacing"></div>
 <!-- Fim do Espaçador -->
-
-<!-- Inicio do Rodapé -->
-<footer>
-    <?php include('includes/footer.php'); ?>
-</footer>
-<!-- Fim do Rodapé -->
  
 <?php
-    
-   /* } else {
+    include_once "./includes/footer.php";
+    } else {
         header("Location login.php");
-    }*/
+    }
 ?>

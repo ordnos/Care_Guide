@@ -6,7 +6,7 @@
                     <p class="font-weight-bold">Seja bem-vindo,</p>
                         <p class="mb-5 font-weight-bold">o que deseja fazer?</p>
                         <div class="row justify-content-initial">
-                            <button type="button" class="btn btn-outline-dark p-4 mr-5 ml-4 font-weight-bold">Encontrar <br/>Referencias</button>
+                            <button type="button" href="./../../php/reference.php" class="btn btn-outline-dark p-4 mr-5 ml-4 font-weight-bold">Encontrar <br/>Referencias</button>
                             <button type="button" class="btn btn-outline-dark p-4 font-weight-bold">Localizar <br/>Projetos</button>
                             <p class="f-16 mt-5 ml-4 text-cg">Encontre referencias de pessoas que superaram suas maiores dificuldades, ou procure instituições e projetos de tratamentos na região de SBC.</p>
                         </div>

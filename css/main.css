@@ -126,7 +126,7 @@ ul {
 }
 
 .bg-sbc {
-    background: url('./../../public/images/secretaria-sbc.jpg') no-repeat;
+    background: url('images/secretaria-sbc.jpg') no-repeat;
     background-size: 100%;
 }
 

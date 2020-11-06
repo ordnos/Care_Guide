@@ -1,7 +1,7 @@
 <!-- Team -->
 <section id="team" class="pb-5">
     <div class="container">
-        <h5 class="mb-5 text-center title-cg">Nossa Equipe</h5>
+        <h5 class="h1 mb-2 text-center title-cg">Nossa Equipe</h5>
         <div class="row justify-content-center mx-auto">
             <!-- Team member -->
             <div class="row mt-5">
@@ -12,7 +12,7 @@
                             <div class="frontside">
                                 <div class="card">
                                     <div class="card-body text-center">
-                                        <p><img class=" img-fluid" src="https://sunlimetech.com/portfolio/boot4menu/assets/imgs/team/img_01.png" alt="card image"></p>
+                                        <p class="col"><img class="img-fluid" src="https://sunlimetech.com/portfolio/boot4menu/assets/imgs/team/img_01.png" alt="card image"></p>
                                         <h4 class="card-title title-card-cg">Alexsandro Marques</h4>
                                         <p class="card-text text-card-cg">This is basic card with image on top, title, description and button.</p>
                                         <ul class="list-inline">

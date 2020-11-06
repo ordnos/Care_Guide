@@ -18,7 +18,7 @@
                     $_SESSION['nome'] = $row['nome'];
                     $_SESSION['email'] = $row['email'];
 
-                    header("Location ../login_user.php");
+                    header("Location: ../login_user.php");
                 }
             }
         }

@@ -3,12 +3,12 @@
         <div class="container py-5 mt-5">
         <div class="row py-5">
                 <div class="col-md-6 title-cg">
-                    <p class="font-weight-bold">Seja bem-vindo,</p>
-                        <p class="mb-5 font-weight-bold">o que deseja fazer?</p>
+                    <p class="h1 font-weight-bold">Seja bem-vindo,</p>
+                        <p class="h1 mb-5 font-weight-bold">o que deseja fazer?</p>
                         <div class="row justify-content-initial">
-                            <button type="button" href="./../../php/reference.php" class="btn btn-outline-dark p-4 mr-5 ml-4 font-weight-bold">Encontrar <br/>Referencias</button>
-                            <button type="button" class="btn btn-outline-dark p-4 font-weight-bold">Localizar <br/>Projetos</button>
-                            <p class="f-16 mt-5 ml-4 text-cg">Encontre referencias de pessoas que superaram suas maiores dificuldades, ou procure instituições e projetos de tratamentos na região de SBC.</p>
+                            <a href="./php/reference.php"><button type="button" class="btn btn-outline-dark p-4 mr-3 ml-3 font-weight-bold">Encontrar <br/>Referencias</button></a>
+                            <a href="./php/locator.php"><button type="button" class="btn btn-outline-dark p-4 font-weight-bold">Localizar <br/>Projetos</button></a>
+                            <p class="h6  mt-4 ml-3 text-cg ">Encontre referencias de pessoas que superaram suas maiores dificuldades, ou procure instituições e projetos de tratamentos na região de SBC.</p>
                         </div>
                 </div>
                 <div class="col-md-6 justify-content-center">
@@ -53,9 +53,9 @@
                 <div class="col-md-6">
                     <img class="w-100" src="https://i.ibb.co/7S68Hhv/team-spirit.png" width="500">
                 </div>
-                <div class="col-md-6">
-                    <p class="mb-5 mt-5 title-cg-w"><b>O que é CareGuide ?</b></p>
-                    <p class="text-cg-w">O CareGuide em sua tradução livre, significa “Guia de Cuidados”, 
+                <div class="col-md-6 text-center">
+                    <p class="h1 mb-5 mt-5 title-cg-w"><b>O que é CareGuide?</b></p>
+                    <p class="h5 text-cg-w">O CareGuide em sua tradução livre, significa “Guia de Cuidados”, 
                         trata-se de uma plataforma direcionada tanto para dependentes de drogas lícitas ou ilícitas, 
                         quanto para seus familiares.
                     </p>
@@ -71,15 +71,14 @@
     <section class="py-5 mb-5">
         <div class="container py-5">
             <div class="row py-5">
-                <div class="col-md-6">
-                    <p class="mb-5 title-cg mt-5"><b>Sobre Projeto</b></p>
-                    <p class="text-cg">Nosso projeto foca em auxiliar na prevenção e combate às drogas fazendo a mediação entre clínicas e instituições com dependentes químicos, 
+                <div class="col-md-6 mb-2">
+                    <img class="w-75" src="https://i.ibb.co/HpnL4Fz/stock-prices.png" width="450">
+                </div>
+                <div class="col-md-6 mt-5">
+                    <p class="h5 text-center mt-5 text-cg">Nosso projeto foca em auxiliar na prevenção e combate às drogas fazendo a mediação entre clínicas e instituições com dependentes químicos, 
                         fazendo uma trilha personalizada a partir de tratamento especializado encaminhado pela Secretária da Saúde de São Bernardo do Campo. 
                         Na parte de prevenção atuamos de forma a conectar crianças e jovens à ex-dependentes que falam abertamente sobre sua jornada.
                     </p>
-                </div>
-                <div class="col-md-6">
-                    <img class="w-100" src="https://i.ibb.co/HpnL4Fz/stock-prices.png" width="450">
                 </div>
             </div>
         </div>

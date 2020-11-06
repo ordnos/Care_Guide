@@ -2,7 +2,7 @@
 
     session_start();
 
-    if(isset($_SESSION['id_usuario'])) {
+    if(isset($_SESSION['id_usuario']) && $_SESSION['id'] <> "") {
         include_once "includes/header.html";
 ?>
 
@@ -70,6 +70,6 @@
 <?php
     include_once "includes/footer.html";
     } else {
-        header("Location login.php");
+        header("Location: login.php");
     }
 ?>

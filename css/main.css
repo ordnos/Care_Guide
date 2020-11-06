@@ -31,6 +31,7 @@
     padding: 62px 22px;
     transition: 0.5s;
     cursor: pointer;
+    min-width: 360px;
 }
 .hover {
     margin-top: -70px;
@@ -81,7 +82,6 @@ ul {
 /*Texto*/
 .title-cg {
     color: #819881;
-    font-size: 3.5rem;
     font-weight: bolder;
 }
 
@@ -126,7 +126,7 @@ ul {
 }
 
 .bg-sbc {
-    background: url('images/secretaria-sbc.jpg') no-repeat;
+    background: url('https://i.ibb.co/Y761WCP/secretaria-sbc.jpg') no-repeat;
     background-size: 100%;
 }
 
@@ -178,7 +178,7 @@ ul {
 }
 
 /* images */
-img {
+.mini-img {
     width: 13%;
     float:left; 
     margin:1%;

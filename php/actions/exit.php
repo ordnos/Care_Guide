@@ -2,13 +2,9 @@
 
     session_start();
 
-    $_SESSION['id_ref'] = "";
-    $_SESSION['cargo'] = "";
-    $_SESSION['sobre'] = "";
-    $_SESSION['facebook'] = "";
-    $_SESSION['instagram'] = "";
-    $_SESSION['youtube'] = "";
-    $_SESSION['site'] = "";
+    $_SESSION['id'] = "";
+    $_SESSION['email'] = "";
+    $_SESSION['nome'] = "";
 
-    header("Location: ../index.php");
+    header("Location: ../../index.php");
 ?>

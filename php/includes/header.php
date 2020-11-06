@@ -24,7 +24,7 @@
       <a class="navbar-brand font-weight-bold text-white ml-5" href="./../index.php">
           CareGuide
       </a>
-        <button class="navbar-toggler text-dark" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo03" aria-controls="navbarTogglerDemo03" aria-expanded="false" aria-label="Alterna navegação">
+        <button class="navbar-toggler text-light" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo03" aria-controls="navbarTogglerDemo03" aria-expanded="false" aria-label="Alterna navegação">
           <span class="fas fa-bars"></span>
         </button>
         <div class="collapse navbar-collapse justify-content-end" id="navbarTogglerDemo03">

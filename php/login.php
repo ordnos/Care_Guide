@@ -3,7 +3,7 @@
     <?php include('./includes/header.php'); ?>
 </header>
 <!-- Fim do Cabeçalho -->
-<div class="long-spacing"></div>
+<div class="long-spacing d-sm-none d-md-block d-none d-sm-block d-md-none d-lg-block"></div>
 <main>
     <div class="container py-5 mt-5 mb-5">
         <div class="row py-5">
@@ -30,7 +30,7 @@
 </main>
 
 <!-- Espaçador -->
-<div class="long-spacing"></div>
+<div class="long-spacing d-sm-none d-md-block d-none d-sm-block d-md-none d-lg-block"></div>
 <!-- Inicio do Rodapé -->
 <footer>
     <?php include('./includes/footer.php'); ?>

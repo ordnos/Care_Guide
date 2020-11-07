@@ -7,7 +7,7 @@
   <meta name="description" content="MVP Básico de projeto da Recode Pro 2020">
   <meta name="keywords" content="MVP Básico, Recode Pro 2020">
   <meta name="author" content="Squad 9 - SP2">
-  <link rel="shortcut icon" href="#" type="image/png">
+  <link rel="shortcut icon" href="https://i.ibb.co/Sn5qHr2/plus.png" type="image/png">
   <link rel="stylesheet" href="./css/main.css">
   <!-- Bootstrap CSS -->
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">

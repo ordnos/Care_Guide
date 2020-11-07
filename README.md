@@ -1,4 +1,4 @@
-# Care Guide
+# Care Guide - SQUAD 9 SP2
  
 A Care Guide é uma plataforma que busca auxiliar na prevenção e combate as drogas
 mediando o contato de clínicas e instituições com dependentes químicos. Com o uso de

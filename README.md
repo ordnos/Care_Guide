@@ -3,7 +3,7 @@
 <p align="center">
     <img src="https://i.ibb.co/NCbPhck/register.png" alt="Logo" width="150" height="150">
 
-  <h3 align="center">CareGuide</h3>
+  <h1 align="center">CareGuide</h1>
 
   <p align="center">
     Um guia para sua jornada !
@@ -11,10 +11,8 @@
     <a href="http://careguide.epizy.com/">Aplicação Web</a>
   </p>
 </p>
-
-## SQUAD 9 SP2
  
-<p align="center"><img src="https://i.ibb.co/8DHBzqm/Tela1.jpg" alt="Tela1" width="600" height="450">
+<p align="center"><img src="https://i.ibb.co/8DHBzqm/Tela1.jpg" alt="Tela1" width="500" height="350">
  
 Nosso projeto foca em auxiliar na prevenção e combate às drogas fazendo a mediação entre clínicas e instituições com dependentes químicos, fazendo uma trilha personalizada a partir de tratamento especializado encaminhado pela Secretária da Saúde de São Bernardo do Campo. Na parte de prevenção atuamos de forma a conectar crianças e jovens à ex-dependentes que falam abertamente sobre sua jornada.</p> </center>
 
@@ -50,6 +48,8 @@ Links da estrutura da aplicação feita no **Figma**:
 [Versão de Visualização do Desktop](https://www.figma.com/proto/7LUOpPzB5mfTXoxwiBbWZX/CaraGuide-Desktop?node-id=2%3A20&viewport=553%2C-1128%2C0.8349320292472839&scaling=scale-down)
 
 ***
+### SQUAD 9 SP2
+
 ## Integrantes:
 
 * 👨🏽‍🦱 **Alexsandro Marques** - [Email](lexordnas@outlook.com) - [Github](https://github.com/LexOrdnas) - (11) 969526115

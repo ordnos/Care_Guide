@@ -1,10 +1,22 @@
-# Care Guide 🟢
+<!-- PROJECT LOGO -->
+<br/>
+<p align="center">
+    <img src="https://i.ibb.co/NCbPhck/register.png" alt="Logo" width="150" height="150">
 
-![imagem](https://i.ibb.co/NCbPhck/register.png)
+  <h3 align="center">CareGuide</h3>
+
+  <p align="center">
+    Um guia para sua jornada !
+    <br />
+    <a href="http://careguide.epizy.com/">Aplicação Web</a>
+  </p>
+</p>
 
 ## SQUAD 9 SP2
  
-Nosso projeto foca em auxiliar na prevenção e combate às drogas fazendo a mediação entre clínicas e instituições com dependentes químicos, fazendo uma trilha personalizada a partir de tratamento especializado encaminhado pela Secretária da Saúde de São Bernardo do Campo. Na parte de prevenção atuamos de forma a conectar crianças e jovens à ex-dependentes que falam abertamente sobre sua jornada.
+<p align="center"><img src="https://i.ibb.co/8DHBzqm/Tela1.jpg" alt="Tela1" width="600" height="450">
+ 
+Nosso projeto foca em auxiliar na prevenção e combate às drogas fazendo a mediação entre clínicas e instituições com dependentes químicos, fazendo uma trilha personalizada a partir de tratamento especializado encaminhado pela Secretária da Saúde de São Bernardo do Campo. Na parte de prevenção atuamos de forma a conectar crianças e jovens à ex-dependentes que falam abertamente sobre sua jornada.</p> </center>
 
 Estamos trabalhando com um dos Objetivos de Desenvolvimento Sustentáveis da ONU.
 
@@ -17,6 +29,18 @@ Saúde e Bem-Estar: *Assegurar uma vida saudável e promover o bem-estar para to
 - [x] Cadastro de Instituições ou Programas;
 - [ ] Mapeamento de Instituições ou Programas na região de SBC;
 - [ ] Mural de depoimentos inseridos por usuarios;
+
+### 🛠 Tecnologias
+
+As seguintes ferramentas foram usadas na construção do projeto:
+
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [Leaflet](https://leafletjs.com/)
+- [PHP](https://www.php.net/)
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [MySql](https://www.mysql.com/)
+---
 
 Links da estrutura da aplicação feita no **Figma**:
 

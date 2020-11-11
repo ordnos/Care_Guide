@@ -36,10 +36,10 @@
               <a class="nav-link h6 font-weight-bold text-white" href="./locator.php"><span class="fas fa-map-marker mr-2 text-white"></span>Localizador</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link h6 font-weight-bold text-white" href="./login.php"><span class="fas fa-user mr-2 text-white"></span>Entrar</a>
+                <a class="nav-link h6 font-weight-bold text-white" href="./login.php"><span class="fas fa-door-open mr-2 text-white"></span>Entrar</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link h6 font-weight-bold text-white" href="./actions/exit.php"><span class="fas fa-user mr-2 text-white"></span>Sair</a>
+                <a class="nav-link h6 font-weight-bold text-white" href="./actions/exit.php"><span class="fas fa-door-closed mr-2 text-white"></span>Sair</a>
             </li>
           </ul>
         </div>

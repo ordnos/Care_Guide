@@ -35,7 +35,7 @@
           </div>
         </div>
 
-        <div class="col-md-6 col-lg-4">
+        <div class="col-md-6 col-lg-4 mb-3">
           <div class="card text-center member">
             <img class="card-img-top" src="https://i.ibb.co/Xj8gD9q/pessoa1.png" alt="Card image cap">
             <div class="card-body">
@@ -52,7 +52,7 @@
           </div>
         </div>
 
-        <div class="col-md-6 col-lg-4">
+        <div class="col-md-6 col-lg-4 mb-3">
           <div class="card text-center member">
             <img class="card-img-top" src="https://i.ibb.co/QCbFcrD/pessoa3.png" alt="Card image cap">
             <div class="card-body">

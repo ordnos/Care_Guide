@@ -6,9 +6,10 @@
                     <p class="h1 font-weight-bold">Seja bem-vindo,</p>
                         <p class="h1 mb-5 font-weight-bold">o que deseja fazer?</p>
                         <div class="row justify-content-initial">
-                            <a href="./php/reference.php"><button type="button" class="btn btn-outline-dark p-4 mr-3 ml-3 font-weight-bold">Encontrar <br/>Referencias</button></a>
-                            <a href="./php/locator.php"><button type="button" class="btn btn-outline-dark p-4 font-weight-bold">Localizar <br/>Projetos</button></a>
-                            <p class="h6  mt-4 ml-3 text-cg ">Encontre referencias de pessoas que superaram suas maiores dificuldades, ou procure instituições e projetos de tratamentos na região de SBC.</p>
+                            <a href="./php/reference.php"><button type="button" class="btn btn-outline-success p-3 mr-3 ml-3 font-weight-bold"><i class="fas fa-users fa-2x mb-3 float-center px-2"></i><p class="h4">Encontrar <br/>Referências</p></button></a>
+                            <a href="./php/locator.php"><button type="button" class="btn btn-outline-success p-3 px-2 font-weight-bold"><i class="fas fa-map fa-2x mb-3 float-center px-2"></i><p class="h4 px-1">Localizar <br/>Projetos</p></button></a>
+                            
+                            <p class="h6 mt-3 ml-3 text-cg ">Encontre referencias de pessoas que superaram suas maiores dificuldades, ou procure instituições e projetos de tratamentos na região de SBC.</p>
                         </div>
                 </div>
                 <div class="col-md-6 justify-content-center">

@@ -13,6 +13,8 @@
  
 Nosso projeto foca em auxiliar na prevenção e combate às drogas fazendo a mediação entre clínicas e instituições com dependentes químicos, fazendo uma trilha personalizada a partir de tratamento especializado encaminhado pela Secretária da Saúde de São Bernardo do Campo. Na parte de prevenção atuamos de forma a conectar crianças e jovens à ex-dependentes que falam abertamente sobre sua jornada.</p> </center>
 
+***
+
 ## Estamos trabalhando com um dos Objetivos de Desenvolvimento Sustentáveis da ONU.
 
 <div align="center">

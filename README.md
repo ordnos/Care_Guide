@@ -19,7 +19,7 @@ Nosso projeto foca em auxiliar na prevenção e combate às drogas fazendo a med
     <img src="http://www.agenda2030.com.br/static/home/images/ods_icons/3.png" width="100px" alt="ODS" title="ONU|ODS3">
 <p>Saúde e Bem-Estar: Assegurar uma vida saudável e promover o bem-estar para todos, em todas as idades;</p>
 <p><b>Prevenção e tratamento de drogas lícitas e ilícitas (3.5).</b></p>
-<div>
+</div>
 
 ***
 

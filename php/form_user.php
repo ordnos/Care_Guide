@@ -1,16 +1,15 @@
 <?php 
 
+    // Iniciar Sessão
     session_start();
 
+    // Se estiver recebendo uma resposta id...
     if (isset($_SESSION['id'])) {
-        include_once "./includes/header.php";
-?>
 
-<!-- Inicio do Cabeçalho -->
-<header>
-    <?php include('./includes/header.php'); ?>
-</header>
-<!-- Fim do Cabeçalho -->
+        // Incluindo o documento X
+        include_once "./includes/header.php";
+
+?>
 
 <!-- Inicio do Espaçador -->
 <div class="long-spacing"></div> 
@@ -60,8 +59,16 @@
 <!-- Fim do Espaçador -->
 
 <?php
+    
+    // Incluindo o documento x
     include_once "./includes/footer.php";
+
+    // Senão faça isso...
     } else {
+
+        // Redirecionar para o local X após a execução de todas as ações anteriores
         header("Location: login.php");
+
     }
+
 ?>

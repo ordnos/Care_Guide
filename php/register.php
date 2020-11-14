@@ -15,6 +15,7 @@
     <div class="container py-5 mt-5">
         <div class="row py-5">
             <div class="col-md-5 ml-5 mr-5">
+
                 <!-- Inicio do Formulário de Cadastro -->
                 <form method="POST" action="./actions/register_users.php">
 
@@ -47,6 +48,7 @@
 
                 </form>
                 <!-- Fim do Formulário de Cadastro -->
+                
             </div>
 
             <!-- Inicio de Imagem -->

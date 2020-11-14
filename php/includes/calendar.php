@@ -1,11 +1,14 @@
 <h3 class="pb-3 mb-4 font-italic border-bottom">
     Reuniões
- </h3>
+</h3>
+
 <div class="row">
+    
     <div class="col-2 text-right mb-5">
         <h1 class="display-4"><span class="badge badge-secondary">23</span></h1>
         <h2>OCT</h2>
     </div>
+    
     <div class="col-10">
         <h3 class="text-uppercase"><strong>Ice Cream Social</strong></h3>
         <ul class="list-inline">
@@ -15,12 +18,16 @@
         </ul>
         <p>Lorem ipsum dolsit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
     </div>
+
 </div>
+
 <div class="row">
+    
     <div class="col-2 text-right mb-5">
         <h1 class="display-4"><span class="badge badge-secondary">27</span></h1>
         <h2>OCT</h2>
     </div>
+    
     <div class="col-10">
         <h3 class="text-uppercase"><strong>Operations Meeting</strong></h3>
         <ul class="list-inline">
@@ -30,4 +37,5 @@
         </ul>
         <p>Lorem ipsum dolsit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
     </div>
+    
 </div>

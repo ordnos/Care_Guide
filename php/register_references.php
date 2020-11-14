@@ -1,12 +1,11 @@
-<!--  -->
 <?php 
 
+    // Iniciar Sessão
     session_start();
 
     if(isset($_SESSION['id_usuario']) && $_SESSION['id'] <> "") {
         include_once "includes/header.html";
 ?>
-<!--  -->
 
 <!-- Inicio do Espaçador -->
 <div class="medium-spacing d-sm-none d-md-block d-none d-sm-block d-md-none d-lg-block"></div>
@@ -20,7 +19,7 @@
         <div class="row py-5">
             <div class="col-md-5 ml-5 mr-5">
 
-                <!--  -->
+                <!-- Inicio do Formulário de Card -->
                 <form method="POST" action="./actions/register_card.php">
                     <h2 class="text-center title-cg mb-5">Criar Card</h2>
                     
@@ -56,7 +55,7 @@
                         <button class="btn btn-lg btn-success mb-5 mt-4" type="submit" name="cadastrar">Cadastrar</button>
                     </div>
                 </form>
-                <!--  -->
+                <!-- Fim do Formulário de Card -->
             </div>
 
             <div class="col-md-6">
@@ -87,11 +86,15 @@
 </main>
 <!-- Fim do Conteúdo -->
 
-<!--  -->
 <?php
+
+    // Incluindo o documento x
     include_once "includes/footer.html";
+    
+    // Senão faça isso...
     } else {
+        // Redirecionar para o local X após a execução de todas as ações anteriores
         header("Location: login.php");
+
     }
 ?>
-<!--  -->

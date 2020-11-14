@@ -41,9 +41,9 @@
                             <p>Tel.: 4125-1300</p>
                         </div>
                 </div>
-            
+            <!-- Ícone do Whatsapp -->
             <a href="https://api.whatsapp.com/send?phone=5511976515352&text=Olá,%20o%o%20que20a%20Secretária%20de%20São%20Bernardo%20do%20Campo%20pode%20fazer%20por%20você?" 
-            class="float ml-4 mt-2" target="_blank"><i class="fa fa-whatsapp my-float"></i></a>
+            class="float ml-4 mt-2" target="_blank"><i class="fa fa-whatsapp mt-3"></i></a>
             </div>
         </div>
     </section>

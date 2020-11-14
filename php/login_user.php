@@ -1,21 +1,28 @@
-<!--  -->
 <?php 
     
-    //
+    // Requirindo o arquio...
     require_once "./actions/db_connect.php";
+
+    // Iniciar Sessão
     session_start();
 
-    //
+    // Se estiver recebendo uma resposta id...
     if (isset($_SESSION['id']) && $_SESSION['id'] <> "") {
+
+        // Incluindo o documento x
         include_once "./includes/header.php";
 
+        // Atribuindo na variável $id o que estiver na variável id dentro da $_SESSION
         $id = $_SESSION['id'];
 
+        // Atribuindo na variável $sql o comando correspondente...
         $sql = "SELECT * FROM posts WHERE usuario = $id;";
+
+        // Atribuindo na variável $resultado o comando executado que estava
+        // na variável $sql na conexão onde está o BD
         $resultado = mysqli_query($connect, $sql);
 
 ?>
-<!--  -->
 
 <!-- Inicio do COnteúdo -->
 <main>
@@ -93,6 +100,8 @@
 
                         <!-- Inicio da condição de repetição de linhas -->
                         <?php
+                        // Atribuindo na variável $row o comando SQL da variável $resultado
+                        // Enquanto estiver recebendo algum valor da tabela posts ele ira repetir a tabela a abaixo...
                         while($row = mysqli_fetch_assoc($resultado)) { 
                         ?>
 
@@ -111,6 +120,7 @@
                         <!-- Fim da estrutura da linha da tabela -->
 
                         <?php 
+                        // Fim da condição WHILE
                         } 
                         ?>
                         <!-- Fim da condição de repetição de linhas -->
@@ -131,8 +141,14 @@
 <!-- Fim do Espaçador -->
  
 <?php
+
+    // Incluindo o documento x
     include_once "./includes/footer.php";
+
+    // Senão faça isso...
     } else {
-        header("Location: login.php");
+        // Redirecionar para o local X após a execução de todas as ações anteriores
+        header("Location: ../login.php");
     }
+
 ?>

@@ -1,22 +1,31 @@
-/* Espaçadores */
+/* Espaçador Grande */
 .long-spacing {
     padding: 10vh 0px;
     background-color: #FFFFE5;
 }
 
+/* Espaçador Principal */
 .main-spacing{
     padding: 80px 0px;
     background-color: #FFFFE5;
 }
 
+/* Espaçador Médio */
 .medium-spacing {
     padding: 50px 0px;
     background-color: #FFFFE5;
 }
 
+/* Espaçador Pequeno */
 .small-spacing {
     padding: 30px 0px;
     background-color: #FFFFE5;
+}
+
+/* Espaçador Pequeno para Card */
+.small-card-spacing {
+    padding: 20px 0px;
+    background-color: #ffffff;
 }
 
 /* Cards */
@@ -28,53 +37,23 @@
     background-color: #f2f2f2;
 }
 .card-body {
-    padding: 62px 22px;
-    transition: 0.5s;
-    cursor: pointer;
+    padding: 22px 22px;
     min-width: 360px;
-}
-.hover {
-    margin-top: -70px;
-    background-color: #ffffff;
-    margin-bottom: 70px;
-}
-.card-body p {
-    color: #747974;
-    margin-bottom: 12px;
-}
-ul {
-    margin: 0;
-    padding: 0;
-}
-.card-body ul li{
-    list-style: none;
-    display: inline-block;
-    padding: 6px;
-}
-.card-body ul li a {
-    color: #47F080;
-    font-weight: 300;
-    width: 40px;
-    height: 40px;
-    line-height: 40px;
-    text-align: center;
-    text-decoration: none;
-    transition: all 0.4s ease-in-out;
-}
-.card-body ul li a:hover {
-    color: #76FF76;
+    border-radius: 150px;
 }
 
-/* Menu */
+/* Background Menu */
 .bg-menu-cg {
     background-color: #47F080;
     color: white;
 }
 
+/* Background Principal */
 .bg-cg {
     background-color: #FFFFE5;
 }
 
+/* Background Banner */
 .bg-banner {
     padding: 15vh 0px;
 }
@@ -85,71 +64,91 @@ ul {
     font-weight: bolder;
 }
 
+/* Padrão de Titulo de cor Branca */
 .title-cg-w {
     color: #fff;
     font-size: 3.5rem;
 }
 
+/* Padrão de Links */
 .link-cg {
     color: #47F080;
 }
 
+/* Padrão de Texto */
 .text-cg {
     color: #819881;
     font-size: 1.6rem;
 }
 
-
+/* Padrão de Texto com cor Branca */
 .text-cg-w {
     color: #fff;
     font-size: 1.6rem;
 }
 
+/* Padrão de Titulo de Card */
 .title-card-cg {
     color: #819881;
     font-size: 1.3rem;
 }
 
+/* Padrão de Texto de Card */
 .text-card-cg {
     color: #819881;
     font-size: 1.2rem;
 }
 
-
+/* Padrão de Botão Principal */
 .button-main {
     outline: 0.1pc solid #475447;
     border-radius: 10px;
 }
 
+/* Padrão de cor Principal */
 .color-1 {
     color: #76FF76;
 }
 
+/* Background do Banner da Pagina SBC */
 .bg-sbc {
     background: url('https://i.ibb.co/Y761WCP/secretaria-sbc.jpg') no-repeat;
     background-size: 100%;
 }
 
+/* images */
+.mini-img {
+    width: 13%;
+    float:left; 
+    margin:1%;
+    border-radius: 10px;
+}
+
 /* Leaflet */
+/* Tamanho do Mapa */
 #mapid {
     width: 100%;
     height: 60vh;
 }
 
+/* Estilo do Wrapper do PopUp  */
 .leaflet-popup-content-wrapper {
     background: rgba(255, 255, 255, 0.8);
     border-radius: 10px;
 }
 
+/* Estilo do Conteúdo do PopUp */
 .leaflet-popup-content {
     color: #819881;
     margin: .8rem 1.2rem;
+    font: 700 0.9rem/1 'Roboto', sans-serif;
 
     display: flex;
     align-items: center;
     justify-content: space-between;
 }
 
+/* Estilo do Botão dentro do PopUp */
 .leaflet-popup-content a {
     width: 4rem;
     height: 4rem;
@@ -164,25 +163,15 @@ ul {
     transition: background-color .2s;
 }
 
+/* Estilo ao passar o mouse no Botão dentro do PopUp */
 .leaflet-popup-content a:hover {
     background: #90FFB5;
+    text-decoration: none;
 }
 
+/* Desabilitando a Seta do PopUp  */
 .leaflet-popup-tip {
     display: none;
-}
-
-.leaflet-container {
-    font: 700 1.8rem/1 'Roboto', sans-serif;
-    z-index: 5;
-}
-
-/* images */
-.mini-img {
-    width: 13%;
-    float:left; 
-    margin:1%;
-    border-radius: 10px;
 }
 
 /* Botão do Whatsapp */
@@ -198,8 +187,4 @@ ul {
     font-size:30px;
 	box-shadow: 2px 2px 3px #999;
     z-index:100;
-}
-
-.my-float{
-	margin-top:16px;
 }

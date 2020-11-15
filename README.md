@@ -15,7 +15,7 @@ Nosso projeto foca em auxiliar na prevenção e combate às drogas fazendo a med
 
 ***
 
-## Estamos trabalhando com um dos Objetivos de Desenvolvimento Sustentáveis da ONU.
+## 🕊 Estamos trabalhando com um dos Objetivos de Desenvolvimento Sustentáveis da ONU.
 
 <div align="center">
     <img src="http://www.agenda2030.com.br/static/home/images/ods_icons/3.png" width="100px" alt="ODS" title="ONU|ODS3">
@@ -25,7 +25,7 @@ Nosso projeto foca em auxiliar na prevenção e combate às drogas fazendo a med
 
 ***
 
-## Pesquisas:
+## 👓 Pesquisas:
 
 - <a href="https://brasil.un.org/pt-br/sdgs/3">ONU | ODS 03</a> 
   - Pauta abordada:
@@ -42,13 +42,13 @@ Nosso projeto foca em auxiliar na prevenção e combate às drogas fazendo a med
   - É uma agência especializada das Nações Unidas (ONU) com sede em Paris, fundada em 16 de novembro de 1945 com o objetivo de contribuir para a paz e segurança no mundo mediante a educação, ciências naturais, ciências sociais/humanas e comunicações/informação.
   ***
   
-## Entrevistas:
+## 👨🏻‍💼👩🏻‍💼 Entrevistas:
 
 - Psiquiatra - Dra. Cintia Périco.
 
 ***
 
-## Lista de Funcionalidades:
+## 📑 Lista de Funcionalidades:
 
 - [X] Login/ Cadastro de Usuário;
 - [x] Cadastro de Instituições ou Programas;
@@ -57,9 +57,9 @@ Nosso projeto foca em auxiliar na prevenção e combate às drogas fazendo a med
 
 ***
 
-### 🛠 Tecnologias
+### 📱 Tecnologias
 
-As seguintes ferramentas foram usadas na construção do projeto:
+As seguintes Tecnologias foram usadas na construção do projeto:
 
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -67,6 +67,14 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [PHP](https://www.php.net/)
 - [MySql](https://www.mysql.com/)
 - [Leaflet](https://leafletjs.com/) - Biblioteca JavaScript de código aberto líder para mapas interativos para dispositivos móveis.
+- [Bootstrap](https://getbootstrap.com/) - Biblioteca de componentes front-end.
+
+***
+
+### 🛠 Ferramentas
+
+As seguintes ferramentas foram usadas na construção do projeto:
+
 - [VsCode](https://code.visualstudio.com/) - IDE utilizada para programação dos códigos.
 - [Figma](https://www.figma.com/) - O Figma é uma ferramenta de design de interface.
 - [Coolors](https://coolors.co/) - Ferramenta para criação de Paleta de cores.

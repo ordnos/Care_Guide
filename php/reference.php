@@ -32,8 +32,12 @@
     <!-- Fim da Sessão -->
 
     <!-- Inicio dos Cards -->
-    <?php include('includes/cards.php') ?>
+    <?php include_once('./includes/cards.php') ?>
     <!-- Fim dos Cards -->
+
+    <!-- Inicio do Botão do Whatsapp -->
+    <?php include_once('./includes/whatsapp-floating-button.php') ?>
+    <!-- Fim do Botão do Whatsapp -->
 
 </main>
 <!-- Fim do Conteúdo Principal -->

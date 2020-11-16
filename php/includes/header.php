@@ -45,7 +45,7 @@
       
       <!-- Inicio da Logo -->
       <a class="navbar-brand font-weight-bold text-white ml-5" href="./../index.php">
-        CareGuide
+        Care Guide
       </a>
       <!-- Fim da Logo -->
 
@@ -61,16 +61,16 @@
         <div class="collapse navbar-collapse justify-content-end text-center" id="navbarTogglerDemo03"> 
           <ul class="navbar-nav col-12 justify-content-end">
 
-            <li class="nav-item">
+          <li class="nav-item">
               <a class="nav-link h6 font-weight-bold text-white" href="./reference.php">
-              <span class="fas fa-project-diagram mr-2 text-white"></span>
+              <span class="fas fa-users mr-1 text-white"></span>
                 Referencias
               </a>
             </li>
 
             <li class="nav-item">
               <a class="nav-link h6 font-weight-bold text-white" href="./locator.php">
-              <span class="fas fa-map-marker mr-2 text-white"></span>
+              <span class="fas fa-map mr-1 text-white"></span>
                 Localizador
               </a>
             </li>

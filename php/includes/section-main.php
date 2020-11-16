@@ -86,9 +86,13 @@
             <!-- Texto -->
             <div class="col-md-6 text-center">
                 <p class="h1 mb-5 mt-5 title-cg-w"><b>O que é CareGuide?</b></p>
-                <p class="h5 text-cg-w">O CareGuide em sua tradução livre, significa “Guia de Cuidados”, 
-                    trata-se de uma plataforma direcionada tanto para dependentes de drogas lícitas ou ilícitas, 
-                    quanto para seus familiares.
+                <p class="h5 text-cg-w">O Care Guide trata se de uma plataforma direcionada tanto para dependentes de drogas
+                lícitas ou ilícitas, quanto para seus familiares terem acesso a um guia entre instituições e
+                programas na sua região, podendo assim escolher fazer um tratamento que se encaixe
+                melhor em suas preferências, assim podendo ter cuidado na forma de tratamento, além
+                de poder entrar em contato com pessoas que superaram a dependência química e
+                enxergar suas experiências de vida, focamos em direcionar o usuário para o tratamento
+                mais adequado ao seu perfil.
                 </p>
             </div>
 

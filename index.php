@@ -38,7 +38,7 @@
       
       <!-- Inicio da Logo -->
       <a class="navbar-brand font-weight-bold text-white ml-5" href="./index.php"> 
-        CareGuide 
+        Care Guide
       </a>
       <!-- Fim da Logo -->
 
@@ -55,28 +55,28 @@
 
             <li class="nav-item">
               <a class="nav-link h6 font-weight-bold text-white" href="./php/reference.php">
-              <span class="fas fa-project-diagram mr-2 text-white"></span>
+              <span class="fas fa-users mr-1 text-white"></span>
                 Referencias
               </a>
             </li>
 
             <li class="nav-item">
               <a class="nav-link h6 font-weight-bold text-white" href="./php/locator.php">
-              <span class="fas fa-map-marker mr-2 text-white"></span>
+              <span class="fas fa-map mr-1 text-white"></span>
                 Localizador
               </a>
             </li>
 
             <li class="nav-item">
                 <a class="nav-link h6 font-weight-bold text-white" href="./php/login.php">
-                <span class="fas fa-door-open mr-2 text-white"></span>
+                <span class="fas fa-door-open mr-1 text-white"></span>
                   Entrar
                 </a>
             </li>
 
             <li class="nav-item">
                 <a class="nav-link h6 font-weight-bold text-white" href="./actions/exit.php">
-                <span class="fas fa-door-closed mr-2 text-white"></span>
+                <span class="fas fa-door-closed mr-1 text-white"></span>
                   Sair  
                 </a>
             </li>
@@ -95,13 +95,17 @@
     <main>
 
       <!-- Inicio da Section Main -->
-        <?php include('./php/includes/section-main.php'); ?>
+        <?php include_once('./php/includes/section-main.php'); ?>
       <!-- Fim da Section Main -->
       
       <!-- Inicio dos Cards-Teams -->
-        <?php include('./php/includes/team-card.php'); ?>
+        <?php include_once('./php/includes/team-card.php'); ?>
       <!-- Fim dos Cards-Teams -->
-      
+
+      <!-- Inicio do Botão do Whatsapp -->
+        <?php include_once('./php/includes/whatsapp-floating-button.php') ?>
+      <!-- Fim do Botão do Whatsapp -->
+
     </main>
     <!-- Fim do Conteúdo principal -->
 

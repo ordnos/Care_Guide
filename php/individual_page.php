@@ -1,6 +1,6 @@
 <!-- Inicio do Cabeçalho -->
 <header>
-    <?php include('includes/header.php'); ?>
+    <?php include_once('includes/header.php'); ?>
 </header>
 <!-- Fim do Cabeçalho -->
 
@@ -41,9 +41,7 @@
                             <p>Tel.: 4125-1300</p>
                         </div>
                 </div>
-            <!-- Ícone do Whatsapp -->
-            <a href="https://api.whatsapp.com/send?phone=5511976515352&text=Olá,%20o%o%20que20a%20Secretária%20de%20São%20Bernardo%20do%20Campo%20pode%20fazer%20por%20você?" 
-            class="float ml-4 mt-2" target="_blank"><i class="fa fa-whatsapp mt-3"></i></a>
+
             </div>
         </div>
     </section>
@@ -78,6 +76,10 @@
     </section>
     <!-- Fim da sessão de Informações de Contato -->
 
+    <!-- Inicio do Botão do Whatsapp -->
+    <?php include_once('./includes/whatsapp-floating-button.php') ?>
+      <!-- Fim do Botão do Whatsapp -->
+
 </main>
 <!-- Fim do Conteúdo Principal -->
 
@@ -87,6 +89,6 @@
 
 <!-- Inicio do Rodapé -->
 <footer>
-    <?php include('includes/footer.php'); ?>
+    <?php include_once('includes/footer.php'); ?>
 </footer>
 <!-- Fim do Rodapé -->

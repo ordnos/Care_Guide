@@ -1,6 +1,6 @@
 <!-- Inicio do Cabeçalho -->
 <header>
-    <?php include('includes/header.php'); ?>
+    <?php include_once('includes/header.php'); ?>
 </header>
 <!-- Fim do Cabeçalho -->
 
@@ -30,7 +30,7 @@
     <!-- Fim da Sessão -->
 
     <!-- Inicio do Mapa -->
-    <div id="mapid" class="container-fluid"></div>
+    <div id="mapid" class="container-fluid"></div> 
     <!-- Fim do Mapa -->
 
 </main>
@@ -38,6 +38,6 @@
 
 <!-- Inicio do Rodapé -->
 <footer>
-    <?php include('includes/footer.php'); ?>
+    <?php include_once('includes/footer.php'); ?>
 </footer>
 <!-- Fim do Rodapé -->

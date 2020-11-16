@@ -81,7 +81,7 @@
         </div>
     </section>
 
-    <?php include('includes/cards.php') ?>
+    <?php include_once('includes/cards.php') ?>
 
 </main>
 <!-- Fim do Conteúdo -->

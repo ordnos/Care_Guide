@@ -111,4 +111,4 @@ Links da estrutura da aplicação feita no **Figma**:
 
 * 👩 **Mayra Almeida** - [Email](mayraalmeida1998@gmail.com) - [Github](https://github.com/Mayra-Almeida) - (11) 96742-8033
 
-* 👩 **Marcia Santos** - [Email](marciacssantos95@gmail.com) - [Github](https://github.com) - (11) 99435-7206
+* 👩 **Marcia Santos** - [Email](marciacssantos95@gmail.com) - [Github](https://github.com/marciacssantos) - (11) 99435-7206

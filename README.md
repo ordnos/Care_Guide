@@ -105,10 +105,10 @@ Links da estrutura da aplicação feita no **Figma**:
 
 * 👨🏽‍🦱 **Alexsandro Marques** - [Email](lexordnas@outlook.com) - [Github](https://github.com/LexOrdnas) - (11) 969526115
 
-* 🧑🏻 **Arthur Ribeiro** - [Email](artur.almeida.ribeiro@outlook.com) - [Github](https://github.com) - (11) 93425-5199
+* 🧑🏻 **Arthur Ribeiro** - [Email](artur.almeida.ribeiro@outlook.com) - [Github](https://github.com/arturalmeidaribeiro) - (11) 93425-5199
 
 * 👨🏻 **Marcos Junior** - [Email](marcossilva8428@gmail.com) - [Github](https://github.com/marcossilva8428) - (11) 94244-5744
 
-* 👩 **Mayra Almeida** - [Email](mayraalmeida1998@gmail.com) - [Github](https://github.com) - (11) 96742-8033
+* 👩 **Mayra Almeida** - [Email](mayraalmeida1998@gmail.com) - [Github](https://github.com/Mayra-Almeida) - (11) 96742-8033
 
 * 👩 **Marcia Santos** - [Email](marciacssantos95@gmail.com) - [Github](https://github.com) - (11) 99435-7206
